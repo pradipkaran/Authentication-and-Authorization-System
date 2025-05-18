@@ -1,4 +1,4 @@
-# Auth-App project 2
+# Authentication and Authorization System
  In this authentication and authorization project, I created secure user signup and login functionality using
  bcrypt for password hashing. I used JSON Web Tokens (JWTs) for authentication, with middleware ensuring
  route protection.
